@@ -5,20 +5,17 @@ export default function Hero() {
     <section id="about" className="mx-auto max-w-6xl px-6 py-20">
       <div className="grid gap-12 md:grid-cols-[1.3fr_0.7fr] md:items-center">
         <div>
-          <div className="mb-6 flex items-center gap-4 text-sm font-bold lowercase tracking-[0.14em] text-navy dark:text-white/90">
-            <span className="h-px w-9 shrink-0 bg-navy/70 dark:bg-white/80" />
-            <span>software engineer</span>
-          </div>
-
           <h1 className="max-w-3xl text-5xl font-bold leading-tight tracking-tight text-navy dark:text-white md:text-6xl">
             hi, i&apos;m deborah ★ <br />
-            i build thoughtful, reliable software.
           </h1>
 
           <p className="mt-7 max-w-2xl text-lg leading-8 text-navy dark:text-white/80">
-            i&apos;m a software engineer focused on full-stack development,
-            cloud infrastructure, and ai applications — with a strong belief
-            that good engineering and good design go hand in hand.
+            a girl from singapore currently finishing up nus computer science before graduating soon.
+          i love learning about all kinds of things and am always picking up new interests along the way.
+          i also enjoy reading, trying new cafés, and travelling whenever i can.
+          <br />
+          <br />
+          thanks for stopping by! keep scrolling if you'd like to learn a little more about me :)
           </p>
 
           <div className="mt-9 flex items-center gap-6">
@@ -57,12 +54,11 @@ export default function Hero() {
             <span>currently</span>
           </div>
           <h2 className="text-2xl font-bold leading-snug text-navy dark:text-white">
-            software engineer — <br />
-            incoming full-time
+            software dev at pwc — <br />
+            incoming swe at jp morgan
           </h2>
           <p className="mt-4 max-w-lg leading-7 text-navy dark:text-white/80">
-            transitioning from internship to full-time role, building
-            production systems and collaborating with cross-functional teams.
+            wrapping up nus computer science and preparing for full-time work 👩🏻‍💻
           </p>
         </div>
 
@@ -72,13 +68,11 @@ export default function Hero() {
             <span>previously</span>
           </div>
           <h2 className="text-2xl font-bold leading-snug text-navy dark:text-white">
-            internships, cloud projects, <br />
-            ai & full-stack development
+            internships, projects, <br />
+            full-stack development
           </h2>
           <p className="mt-4 max-w-lg leading-7 text-navy dark:text-white/80">
-            software engineering internships at startups and larger
-            organisations — shipping features, building tools, and deploying
-            cloud infrastructure end-to-end.
+            exploring different corners of tech through school, internships, and side projects.
           </p>
         </div>
       </div>

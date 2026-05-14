@@ -4,28 +4,19 @@ export default function Footer() {
       <div className="mx-auto flex max-w-6xl flex-col gap-8 px-6 py-12 md:flex-row md:items-end md:justify-between">
         <div>
           <h2 className="text-3xl font-bold text-navy dark:text-cream">
-            let&apos;s build something
-            <br />
-            <span className="text-navy dark:text-cream/80">worth using.</span>
+            say hello sometime ⊹ ࣪ ˖
           </h2>
-
-          <a
-            href="mailto:hello@deborahlu.com"
-            className="mt-4 inline-block text-navy dark:text-cream/80 underline hover:text-navy dark:text-cream"
-          >
-            hello@deborahlu.com
-          </a>
         </div>
 
         <div className="text-left md:text-right">
           <div className="mb-4 flex gap-5 md:justify-end">
-            <a href="#" className="text-navy dark:text-cream/80 underline hover:text-navy dark:text-cream">
+            <a href="mailto:hello@deborahlu.com" className="text-navy dark:text-cream/80 underline hover:text-navy dark:text-cream">
               email
             </a>
-            <a href="#" className="text-navy dark:text-cream/80 underline hover:text-navy dark:text-cream">
+            <a href="https://github.com/deborahluyx" className="text-navy dark:text-cream/80 underline hover:text-navy dark:text-cream">
               github
             </a>
-            <a href="#" className="text-navy dark:text-cream/80 underline hover:text-navy dark:text-cream">
+            <a href="https://www.linkedin.com/in/deborahluyx/" className="text-navy dark:text-cream/80 underline hover:text-navy dark:text-cream">
               linkedin
             </a>
           </div>

@@ -1,14 +1,21 @@
 export const projects = [
   {
     number: "01",
-    title: "test orchestration system",
-    category: "automation",
+    title: "peerprep",
+    category: "full stack",
     description:
-      "A C# automation system for orchestrating complex hardware testing across physical and virtual environments.",
-    stack: ["C#", ".NET", "logging", "QA automation"],
+      "A collaborative technical interview preparation platform with real-time coding, video communication, and peer matchmaking features.",
+    stack: [
+      "React",
+      "TypeScript",
+      "Node.js",
+      "MongoDB",
+      "WebSockets",
+      "Docker",
+    ],
     links: {
-      github: "#",
-      caseStudy: "#",
+      github:
+        "https://github.com/CS3219-AY2526Sem1/cs3219-ay2526s1-project-g05",
     },
   },
   {
@@ -16,11 +23,10 @@ export const projects = [
     title: "studybuddy",
     category: "full stack",
     description:
-      "A collaborative student app with real-time messaging and availability scheduling for peer learning.",
-    stack: ["React", "TypeScript", "Node.js"],
+      "A collaborative student platform designed for peer learning, real-time messaging, and study session coordination.",
+    stack: ["React", "TypeScript", "Firebase", "Next.js"],
     links: {
-      github: "#",
-      demo: "#",
+      demo: "https://study-buddy-blue.vercel.app/",
     },
   },
   {
@@ -31,7 +37,7 @@ export const projects = [
       "A mobile health application using computer vision and NLP for self-assessment and healthcare triage.",
     stack: ["Python", "CNN", "NLP"],
     links: {
-      github: "#",
+      github: "https://github.com/deborahluyx/gebongka",
     },
   },
   {
@@ -42,7 +48,7 @@ export const projects = [
       "A full-stack reservation platform helping restaurants manage off-peak demand and customer flow.",
     stack: ["Express.js", "Flask", "MySQL", "AWS"],
     links: {
-      github: "#",
+      github: "https://github.com/deborahluyx/chefront3.0",
     },
   },
 ];
