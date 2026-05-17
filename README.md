@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./public/readme.png" alt="hello, i'm deborah" width="700" />
+  <img src="./public/readme.png" alt="hello, i'm deborah" width="500" />
 </div>
 
 ## ★ &nbsp; about me
